@@ -1,0 +1,1383 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	3843
+#@/user_id	b176f87b-293e-4035-b0c9-fd7cf4777bf9
+a 	啊	c=5 d=0.603844 t=3843
+a er bei si shan 	阿爾卑斯山	c=1 d=0.519442 t=3843
+ai 	愛	c=1 d=0.344728 t=3843
+ai er lan 	愛爾蘭	c=1 d=0.873716 t=3843
+an 	俺	c=1 d=3.48311e-05 t=3843
+an 	按	c=6 d=0.0171671 t=3843
+an 	氨	c=0 d=0.0219808 t=3843
+an 	胺	c=3 d=0.683115 t=3843
+an ji suan 	氨基酸	c=1 d=0.752014 t=3843
+an ran 	安然	c=6 d=5.1261 t=3843
+an tong kuan qu 	暗通款曲	c=1 d=0.715338 t=3843
+an yi xia 	按一下	c=1 d=0.00276698 t=3843
+an zhao 	按照	c=1 d=9.51553e-05 t=3843
+an zhuang 	安裝	c=19 d=1.77659 t=3843
+ao da li ya 	澳大利亞	c=1 d=3.23143e-05 t=3843
+ao gu si du 	奧古斯都	c=2 d=0.740195 t=3843
+ba 	吧	c=15 d=1.44611 t=3843
+ba 	把	c=25 d=0.313486 t=3843
+ba ba 	爸爸	c=2 d=0.251116 t=3843
+ba shi 	八十	c=1 d=0.585669 t=3843
+ba ta 	把它	c=3 d=0.111344 t=3843
+ba ta men 	把他們	c=1 d=0.00423234 t=3843
+bai bai he 	白百何	c=2 d=0.718029 t=3843
+bai du 	百度	c=4 d=0.821317 t=3843
+bai du yun 	百度雲	c=1 d=1 t=3825
+bai fen bi 	百分比	c=1 d=1 t=3510
+bai tuo 	擺脫	c=2 d=0.677057 t=3843
+ban 	版	c=3 d=0.942278 t=3843
+ban 	辦	c=2 d=0.272041 t=3843
+ban ben 	版本	c=1 d=0.298197 t=3843
+bang 	棒	c=2 d=0.119823 t=3843
+bao 	包	c=1 d=0.00463092 t=3843
+bao cun 	保存	c=2 d=0.0121576 t=3843
+bao dun 	寶墩	c=1 d=0.722527 t=3843
+bao xiu 	保修	c=2 d=0.360884 t=3843
+bao zha 	爆炸	c=1 d=0.00970611 t=3843
+bei 	被	c=7 d=3.16141 t=3843
+bei da 	北大	c=1 d=0.600496 t=3843
+bei fen 	備份	c=4 d=0.00405031 t=3843
+bei jing 	北京	c=1 d=1 t=3838
+bei jing 	背景	c=1 d=0.565525 t=3843
+bei zhua 	被抓	c=1 d=0.733447 t=3843
+ben 	苯	c=1 d=1 t=3606
+ben di 	本地	c=1 d=0.00416933 t=3843
+ben huang suan 	苯磺酸	c=1 d=0.279431 t=3843
+ben ji 	本機	c=1 d=1 t=3816
+ben ti 	本體	c=2 d=4.11094e-05 t=3843
+ben yi xi 	苯乙烯	c=5 d=1.29076 t=3843
+bi 	必	c=2 d=1.99005 t=3823
+bi 	比	c=4 d=0.109788 t=3843
+bi ji 	筆記	c=3 d=1.22616 t=3843
+bi ji ben 	筆記本	c=3 d=0.0455142 t=3843
+bi jiao 	比較	c=3 d=0.55206 t=3843
+bi li 	比例	c=2 d=0.756561 t=3843
+bi ru 	比如	c=2 d=0.16042 t=3843
+bi she 	畢設	c=1 d=0.204948 t=3843
+bian cheng 	編程	c=1 d=1 t=3759
+bian hu 	辯護	c=1 d=0.154896 t=3843
+bian tai 	變態	c=1 d=0.612626 t=3843
+biao zhun 	標準	c=2 d=1.679 t=3843
+biao zhun ku 	標準庫	c=1 d=1 t=3773
+bing 	丙	c=3 d=0.201907 t=3843
+bing chua suan 	丙欻酸	c=1 d=1 t=3571
+bing jiao zhi 	丙交酯	c=1 d=0.951229 t=3843
+bing xi 	丙烯	c=7 d=2.41283 t=3843
+bing xi suan 	丙烯酸	c=27 d=4.07637 t=3843
+bing xi suan an 	丙烯酸氨	c=2 d=0.2952 t=3843
+bing xi suan an 	丙烯酸胺	c=1 d=1 t=3575
+bing xi suan yi zhi 	丙烯酸乙酯	c=10 d=5.25511 t=3843
+bing xi xian an 	丙烯酰胺	c=20 d=5.07679 t=3843
+bo ke 	博客	c=0 d=0.0941765 t=3843
+bo lan 	波瀾	c=1 d=0.142274 t=3843
+bu 	不	c=3 d=0.103529 t=3843
+bu bei 	不被	c=1 d=0.447088 t=3843
+bu cuo 	不錯	c=3 d=2.69694 t=3843
+bu dao 	不到	c=1 d=0.00914087 t=3843
+bu dong 	不懂	c=1 d=0.000443791 t=3843
+bu fang bian 	不方便	c=1 d=0.188247 t=3843
+bu gan 	不敢	c=2 d=0.859158 t=3843
+bu gou 	不夠	c=0 d=7.39157e-05 t=3843
+bu gou yong 	不夠用	c=1 d=0.000742862 t=3843
+bu guo 	不過	c=11 d=1.39045 t=3843
+bu hao 	不好	c=2 d=0.265803 t=3843
+bu hao fen 	不好分	c=1 d=0.00037447 t=3843
+bu he li 	不合理	c=2 d=0.00102718 t=3843
+bu hui 	不會	c=4 d=0.227726 t=3843
+bu ji 	不急	c=1 d=0.000227127 t=3843
+bu jiu shi 	不就是	c=1 d=0.634448 t=3843
+bu kan 	不看	c=1 d=0.227638 t=3843
+bu ke neng 	不可能	c=1 d=0.201897 t=3843
+bu le 	不了	c=2 d=0.0013007 t=3843
+bu li yu 	不利於	c=1 d=0.092089 t=3843
+bu me neng 	不麼能	c=1 d=1 t=3740
+bu ne ge 	不呢個	c=1 d=1 t=3741
+bu neng 	不能	c=9 d=0.674707 t=3843
+bu neng gai 	不能改	c=1 d=0.000685748 t=3843
+bu neng yong 	不能用	c=1 d=0.0678809 t=3843
+bu shan 	不刪	c=1 d=0.000188766 t=3843
+bu shi 	不是	c=7 d=0.958926 t=3843
+bu shi ge 	不是個	c=1 d=0.0184997 t=3843
+bu shu lian 	不熟練	c=1 d=0.166127 t=3843
+bu ting 	不停	c=1 d=0.000476044 t=3843
+bu tong 	不同	c=1 d=1 t=3714
+bu wen 	不穩	c=1 d=0.349938 t=3843
+bu xi guan 	不習慣	c=2 d=0.98823 t=3843
+bu xiao 	不小	c=1 d=0.000645813 t=3843
+bu xing 	不幸	c=1 d=0.647265 t=3843
+bu xing 	不行	c=1 d=0.000140205 t=3843
+bu yao 	不要	c=5 d=0.350746 t=3843
+bu yi 	不宜	c=2 d=0.0162976 t=3843
+bu yong 	不用	c=7 d=0.474734 t=3843
+bu zai hu 	不在乎	c=2 d=0.134009 t=3843
+bu zen me 	不怎麼	c=1 d=0.0104099 t=3843
+bu zhao ji 	不着急	c=1 d=0.0163259 t=3843
+bu zhi dao 	不知道	c=1 d=0.484325 t=3843
+bu zhou 	步驟	c=1 d=9.65934e-05 t=3843
+bu zou xiao 	不奏效	c=1 d=0.00530026 t=3843
+ca 	擦	c=2 d=0.242721 t=3843
+ca huai 	擦壞	c=1 d=0.112478 t=3843
+cai 	才	c=1 d=0.244143 t=3843
+cai dan lan 	菜單欄	c=1 d=0.242926 t=3843
+cai liao 	材料	c=3 d=0.975359 t=3843
+can ji 	残基	c=1 d=1 t=3604
+can ji 	殘疾	c=1 d=1 t=3603
+can kao 	參考	c=1 d=0.927743 t=3843
+can yu 	殘餘	c=1 d=1 t=3693
+cao 	草	c=0 d=0.0960789 t=3843
+cao ni ma 	草泥馬	c=1 d=0.909373 t=3843
+cao zuo 	操作	c=3 d=1.79857 t=3843
+cao zuo xi tong 	操作系統	c=1 d=9.05145e-05 t=3843
+ce 	測	c=1 d=1 t=3515
+ce liang 	測量	c=1 d=1 t=3681
+ce lve 	策略	c=1 d=3.62526e-05 t=3843
+ce shi 	測試	c=1 d=0.00218749 t=3843
+cha 	插	c=2 d=0.000321909 t=3843
+cha 	查	c=1 d=0.0137736 t=3843
+cha jian 	插件	c=3 d=0.405186 t=3843
+cha jin 	差勁	c=0 d=0.00584257 t=3843
+chai 	拆	c=1 d=0.0120946 t=3843
+chan 	產	c=1 d=1 t=3630
+chan wu 	產物	c=2 d=1.83527 t=3672
+chang 	常	c=1 d=4.34022e-05 t=3843
+chang 	廠	c=1 d=0.0095616 t=3843
+chang 	長	c=1 d=0.0155297 t=3843
+chang de 	長得	c=1 d=0.329559 t=3843
+chang jia 	廠家	c=1 d=0.0550232 t=3843
+chao 	超	c=1 d=0.42564 t=3843
+chao ji 	超級	c=1 d=0.00390694 t=3843
+chao jia 	吵架	c=2 d=0.155499 t=3843
+chao jian jie 	超簡介	c=1 d=0.0544757 t=3843
+chao yue 	超越	c=1 d=1 t=3560
+chen yu fan 	陈宇凡	c=1 d=0.400517 t=3843
+chen yu fan 	陈羽凡	c=1 d=0.402524 t=3843
+cheng 	成	c=2 d=0.0972957 t=3843
+cheng ba 	稱霸	c=1 d=0.501576 t=3843
+cheng du 	成都	c=1 d=0.726149 t=3843
+cheng du 	程度	c=1 d=1 t=3843
+cheng gong 	成功	c=2 d=0.0944202 t=3843
+cheng le 	成了	c=1 d=0.0977834 t=3843
+cheng xu 	程序	c=2 d=0.217641 t=3843
+chi ba 	吃吧	c=1 d=0.0115047 t=3843
+chi guo 	吃過	c=1 d=0.594521 t=3843
+chi jing 	吃驚	c=1 d=0.158025 t=3843
+chong qi 	重啓	c=5 d=0.062822 t=3843
+chong tu 	衝突	c=1 d=0.000141955 t=3843
+chong xin 	重新	c=1 d=0.000439444 t=3843
+chu lai 	出來	c=1 d=0.00189223 t=3843
+chu li 	處理	c=1 d=0.179964 t=3843
+chu li shi qing 	處理事情	c=1 d=0.0925506 t=3843
+chu qu 	出去	c=2 d=1.92312 t=3640
+chu qu 	除去	c=2 d=1.87372 t=3692
+chu shen 	出身	c=1 d=0.0699482 t=3843
+chun 	春	c=1 d=0.847894 t=3843
+chun se 	純色	c=1 d=0.878095 t=3843
+ci 	次	c=7 d=1.36006 t=3843
+ci dian 	詞典	c=2 d=1 t=3843
+ci ku 	詞庫	c=6 d=3.76481 t=3843
+ci pan 	磁盤	c=1 d=0.279431 t=3843
+ci shu 	次數	c=2 d=0.104914 t=3843
+cong 	從	c=2 d=0.000565253 t=3843
+cong bu 	從不	c=1 d=0.0049667 t=3843
+cu shi 	促使	c=1 d=1 t=3668
+cui hua 	催化	c=1 d=2.19883e-05 t=3843
+cun 	存	c=1 d=0.00479587 t=3843
+cun bu nan xing 	寸步難行	c=1 d=0.408608 t=3843
+cuo wu 	錯誤	c=1 d=0.0285814 t=3843
+da 	大	c=7 d=0.704618 t=3843
+da 	打	c=2 d=0.0470307 t=3843
+da bao 	打包	c=2 d=0.00684592 t=3843
+da bu fen 	大部分	c=2 d=0.612663 t=3843
+da duan 	打斷	c=1 d=4.36198e-05 t=3843
+da duo shu 	大多數	c=2 d=1.06372 t=3843
+da fen zi 	大分子	c=7 d=2.65655 t=3843
+da ge 	打個	c=0 d=0.0181772 t=3843
+da ge zi 	打個字	c=2 d=0.377636 t=3843
+da kai 	打開	c=3 d=0.01741 t=3843
+da nao 	大腦	c=1 d=0.0963276 t=3843
+da nao 	大鬧	c=2 d=0.257947 t=3843
+da xiao 	大小	c=1 d=0.000539429 t=3843
+da xue 	大學	c=3 d=0.918512 t=3843
+da yu 	大於	c=1 d=0.557106 t=3843
+da zai 	大哉	c=1 d=0.97531 t=3843
+da zhe 	打折	c=1 d=0.0187793 t=3843
+da zhi 	大致	c=1 d=0.900325 t=3843
+da zu 	大足	c=1 d=0.718924 t=3843
+dai er 	戴爾	c=1 d=0.704688 t=3843
+dan 	但	c=2 d=9.93559e-05 t=3843
+dan 	膽	c=1 d=0.798516 t=3843
+dan ding 	淡定	c=2 d=1.41971 t=3843
+dan shi 	但是	c=2 d=0.990386 t=3843
+dan teng 	蛋疼	c=1 d=0.591555 t=3843
+dan ti 	單體	c=7 d=1.77759 t=3843
+dang cheng 	當成	c=1 d=0.000161662 t=3843
+dang qian 	當前	c=1 d=0.00384878 t=3843
+dang ran 	當然	c=1 d=0.299692 t=3843
+dao 	到	c=6 d=0.0169373 t=3843
+dao di 	到底	c=1 d=0.121238 t=3843
+dao hui qu 	倒回去	c=1 d=0.000437252 t=3843
+dao li 	道理	c=1 d=0.137381 t=3843
+dao shi 	倒是	c=0 d=0.0537944 t=3843
+dao shi hou 	到時候	c=1 d=0.000731802 t=3843
+de 	地	c=2 d=1.23587 t=3843
+de 	得	c=0 d=0.0343009 t=3843
+de 	的	c=196 d=13.1021 t=3843
+de le 	得了	c=1 d=0.045275 t=3843
+de zhi 	得知	c=1 d=0.657047 t=3843
+dei 	得	c=1 d=0.00786762 t=3843
+deng 	等	c=1 d=0.0248475 t=3843
+deng dao 	等到	c=1 d=0.255381 t=3843
+deng lu 	登錄	c=4 d=0.00492085 t=3843
+di 	地	c=0 d=0.0532592 t=3843
+di 	迪	c=1 d=0.651025 t=3843
+di er 	第二	c=0 d=3.82034e-05 t=3843
+di er hang 	第二行	c=1 d=0.000383949 t=3843
+di fang 	地方	c=4 d=0.84643 t=3843
+di qiu 	地球	c=1 d=1 t=3557
+di san dai 	第三代	c=1 d=0.392586 t=3843
+di san fang 	第三方	c=2 d=0.644471 t=3843
+di yi 	第一	c=0 d=3.83949e-05 t=3843
+di yi ci 	第一次	c=1 d=1 t=3761
+di yi lan 	第一欄	c=1 d=0.000385874 t=3843
+di zhi 	地址	c=1 d=0.00101791 t=3843
+di zhi 	帝制	c=1 d=0.343009 t=3843
+di zhong hai 	地中海	c=1 d=0.50409 t=3843
+dian 	電	c=1 d=0.0369772 t=3843
+dian 	點	c=10 d=0.146445 t=3843
+dian chi 	電池	c=1 d=0.000297529 t=3843
+dian jia 	店家	c=1 d=0.1764 t=3843
+dian jie zhi 	電接枝	c=2 d=1.79852 t=3690
+dian jie zhi 	電解質	c=0 d=0.1 t=3561
+dian jin qu 	點進去	c=2 d=0.000717888 t=3843
+dian le 	點了	c=1 d=0.000426457 t=3843
+dian yi xia 	點一下	c=1 d=0.00286554 t=3843
+dian zhen 	點陣	c=2 d=0.93068 t=3843
+diao le 	掉了	c=1 d=0.131336 t=3843
+diao yong 	調用	c=1 d=1.93078e-05 t=3843
+die dai 	迭代	c=1 d=1 t=3762
+ding 	定	c=1 d=1 t=3721
+ding yue 	訂閱	c=1 d=0.000788798 t=3843
+ding zhi 	定製	c=1 d=0.798516 t=3843
+dong hua 	動畫	c=1 d=0.416862 t=3843
+dong xi 	東西	c=6 d=0.642901 t=3843
+dou 	都	c=13 d=1.30177 t=3843
+dou dou 	豆豆	c=0 d=0.0941765 t=3843
+dou dou bo ke 	豆豆博客	c=1 d=0.946485 t=3843
+dou shi 	都是	c=2 d=0.150416 t=3843
+du 	度	c=1 d=0.331211 t=3843
+du shu 	讀書	c=2 d=0.95424 t=3843
+duan 	斷	c=1 d=0.0420036 t=3843
+duan 	段	c=1 d=0.0461896 t=3843
+duan 	短	c=1 d=0.0464212 t=3843
+dui 	對	c=7 d=0.052768 t=3843
+dui ying 	對應	c=2 d=0.330615 t=3843
+dui yu 	對於	c=2 d=0.136698 t=3843
+duo 	多	c=3 d=0.0457081 t=3843
+duo shao 	多少	c=1 d=6.12835e-05 t=3843
+duo xi 	多系	c=2 d=0.626478 t=3843
+duo xie 	多謝	c=1 d=0.618783 t=3843
+en 	嗯	c=17 d=2.36078 t=3843
+en 	恩	c=1 d=2.90934e-05 t=3843
+er 	二	c=3 d=2.98506 t=3765
+er 	兒	c=2 d=0.186389 t=3843
+er 	而	c=2 d=0.187323 t=3843
+er bu shi 	而不是	c=3 d=0.011359 t=3843
+er qie 	而且	c=1 d=0.0987662 t=3843
+er zi 	兒子	c=1 d=0.357007 t=3843
+fa 	發	c=6 d=0.0971467 t=3843
+fa dou 	發抖	c=1 d=0.0997588 t=3843
+fa ge 	發個	c=3 d=0.164183 t=3843
+fa guo 	法國	c=2 d=0.596425 t=3843
+fa guo qu 	發過去	c=1 d=0.0761538 t=3843
+fa le 	發了	c=0 d=0.000106477 t=3843
+fa le yi ge 	發了一個	c=1 d=0.0010701 t=3843
+fa you 	髮油	c=1 d=0.99005 t=3843
+fa zhan 	發展	c=1 d=0.774916 t=3843
+fan dao 	反倒	c=1 d=0.231078 t=3843
+fan di gang 	梵蒂岡	c=1 d=0.748264 t=3843
+fan jian 	繁簡	c=3 d=2.83072 t=3843
+fan ren lei 	反人類	c=1 d=0.618783 t=3843
+fan she hui 	反社會	c=1 d=0.621885 t=3843
+fan ti 	繁體	c=1 d=0.082085 t=3843
+fan yi 	翻譯	c=7 d=2.04541 t=3843
+fan ying 	反應	c=18 d=5.09237 t=3843
+fan ying wu 	反應物	c=1 d=1 t=3626
+fang bian 	方便	c=1 d=0.000728153 t=3843
+fang dao 	放到	c=1 d=0.00425356 t=3843
+fang fa 	方法	c=4 d=0.597021 t=3843
+fang shi 	方式	c=1 d=1.91157e-05 t=3843
+fang xiang 	方向	c=3 d=0.819329 t=3843
+fei 	沸	c=1 d=1 t=3660
+fei chang 	非常	c=1 d=0.0916297 t=3843
+fei dian 	沸點	c=4 d=3.88304 t=3663
+fei ji 	飛機	c=0 d=0.0168638 t=3843
+fen 	分	c=1 d=0.000601515 t=3843
+fen dao 	分到	c=1 d=0.000596161 t=3843
+fen guo 	分過	c=0 d=3.89752e-05 t=3843
+fen guo qu 	分過區	c=1 d=0.000391706 t=3843
+fen nu 	憤怒	c=4 d=0.421347 t=3843
+fen pei 	分配	c=1 d=0.25284 t=3843
+fen qu 	分區	c=5 d=0.00246204 t=3843
+feng 	封	c=1 d=2.03995e-05 t=3843
+feng guan 	封管	c=1 d=2.09159e-05 t=3843
+feng kuang 	瘋狂	c=1 d=0.00835412 t=3843
+fu 	服	c=1 d=0.537944 t=3843
+fu bai 	腐敗	c=1 d=0.790571 t=3843
+fu hao 	符號	c=1 d=0.324652 t=3843
+fu pei rong 	傅佩榮	c=1 d=0.172907 t=3843
+fu wu qi 	服務器	c=1 d=1 t=3820
+gai 	改	c=4 d=0.00118744 t=3843
+gai bu dong 	改不懂	c=1 d=0.00065886 t=3843
+gai cheng 	改成	c=2 d=0.0013345 t=3843
+gai nian 	概念	c=2 d=1.98511 t=3813
+gai xing 	改性	c=1 d=0.271173 t=3843
+gai xing 	改行	c=1 d=0.26982 t=3843
+gan 	幹	c=2 d=0.375893 t=3843
+gan ga 	尷尬	c=0 d=0.0263158 t=3843
+gan ga zhe 	尷尬着	c=1 d=0.264477 t=3843
+gan guo 	幹過	c=1 d=0.423162 t=3843
+gan jue 	感覺	c=2 d=0.000875736 t=3843
+gan si 	乾死	c=0 d=0.040657 t=3843
+gan si le 	乾死了	c=1 d=0.408608 t=3843
+gang men 	肛門	c=1 d=0.752014 t=3843
+gao 	搞	c=1 d=0.0739031 t=3843
+gao 	高	c=1 d=0.00794669 t=3843
+gao gong 	高拱	c=1 d=0.0682212 t=3843
+gao lu 	高盧	c=0 d=0.029671 t=3843
+gao lu ren 	高盧人	c=2 d=0.54958 t=3843
+gao nong du 	高濃度	c=1 d=1 t=3649
+gao zhi shang 	高智商	c=1 d=0.615697 t=3843
+ge 	個	c=4 d=0.152209 t=3843
+gei 	給	c=3 d=0.302645 t=3843
+gei ni 	給你	c=8 d=0.321422 t=3843
+gei ni fa 	給你發	c=1 d=0.000902809 t=3843
+gei wo 	給我	c=7 d=0.130691 t=3843
+gen ji 	根基	c=1 d=0.348192 t=3843
+geng gai 	更改	c=2 d=0.000550039 t=3843
+geng huan 	更換	c=1 d=0.822835 t=3843
+geng xin 	更新	c=4 d=0.0807641 t=3843
+gong 	共	c=1 d=1 t=3659
+gong he guo 	共和國	c=2 d=1.00574 t=3843
+gong ju 	工具	c=8 d=1.95552 t=3843
+gong ju wu 	共聚物	c=1 d=0.951229 t=3843
+gong ke 	工科	c=1 d=1 t=3843
+gong neng 	功能	c=4 d=0.384119 t=3843
+gong xiang 	共享	c=1 d=0.955997 t=3843
+gong yuan 	公元	c=1 d=0.45612 t=3843
+gong zuo 	工作	c=2 d=0.353693 t=3843
+gou 	夠	c=1 d=0.794534 t=3843
+gou le 	夠了	c=2 d=0.358796 t=3843
+gou yong 	夠用	c=1 d=0.0539337 t=3843
+gu 	古	c=0 d=0.0394554 t=3843
+gu cheng 	孤城	c=1 d=1 t=3843
+gu ge 	谷歌	c=5 d=0.965605 t=3843
+gu li 	鼓勵	c=1 d=0.343009 t=3843
+gu shi 	故事	c=2 d=1.05314 t=3843
+gu tai 	固態	c=2 d=0.046186 t=3843
+gu tai ying pan 	固態硬盤	c=1 d=0.255381 t=3843
+gu yuan 	古猿	c=0 d=0.1 t=3535
+gua zai 	掛載	c=1 d=0.0170774 t=3843
+guan 	管	c=1 d=2.05018e-05 t=3843
+guan li qi 	管理器	c=4 d=1.28423 t=3843
+guan wang 	官網	c=1 d=0.189191 t=3843
+guan xi 	關係	c=1 d=0.305746 t=3843
+guan yu 	關於	c=1 d=0.0753961 t=3843
+guang 	光	c=1 d=1 t=3728
+guang pan 	光盤	c=2 d=0.000437941 t=3843
+guang qu 	光驅	c=3 d=0.0328566 t=3843
+guang qu wei 	光驅位	c=1 d=0.0125881 t=3843
+gui 	貴	c=2 d=0.102814 t=3843
+gui gen 	歸根	c=1 d=0.120633 t=3843
+guo 	過	c=1 d=0.0286339 t=3843
+guo cheng 	過程	c=2 d=0.904837 t=3843
+guo ji 	國際	c=0 d=0.000358858 t=3843
+guo ji ban 	國際版	c=1 d=0.00360656 t=3843
+guo ji biao 	國際標	c=1 d=0.00355287 t=3843
+guo jia 	國家	c=1 d=0.467666 t=3843
+guo jiao 	國腳	c=1 d=0.878095 t=3843
+guo liang 	過量	c=1 d=1 t=3620
+guo ran 	果然	c=1 d=0.100761 t=3843
+guo wai 	國外	c=1 d=0.442639 t=3843
+ha ha 	哈哈	c=3 d=2.92632 t=3843
+ha ha ha 	哈哈哈	c=1 d=0.951229 t=3843
+hai 	還	c=3 d=1.64437 t=3843
+hai gan 	還敢	c=1 d=0.763379 t=3843
+hai gao 	還高	c=1 d=0.0081887 t=3843
+hai ke yi 	還可以	c=3 d=1.07973 t=3843
+hai mei you 	還沒有	c=3 d=0.729789 t=3843
+hai shi 	還是	c=4 d=0.99005 t=3843
+hai yao 	還要	c=1 d=0.150318 t=3843
+hai yao bu yao 	還要不要	c=1 d=3.38017e-05 t=3843
+hai you 	還有	c=1 d=0.00565622 t=3843
+han ni ba 	漢尼拔	c=1 d=0.511709 t=3843
+han shu 	函數	c=1 d=1 t=3775
+hang 	行	c=1 d=0.00311151 t=3843
+hao 	好	c=9 d=1.38169 t=3843
+hao ba 	好吧	c=4 d=1.27426 t=3843
+hao de 	好的	c=1 d=2.93858e-05 t=3843
+hao duo 	好多	c=1 d=3.51812e-05 t=3843
+hao le 	好了	c=5 d=0.00734925 t=3843
+hao shao 	好少	c=1 d=0.0411719 t=3843
+hao shou 	好手	c=1 d=0.380983 t=3843
+hao xiang 	好像	c=3 d=0.149265 t=3843
+hao yi dian 	好一點	c=1 d=0.0702988 t=3843
+hao yong 	好用	c=2 d=0.31177 t=3843
+he 	和	c=31 d=5.2952 t=3843
+he 	盒	c=2 d=0.0239915 t=3843
+he bei 	河北	c=1 d=1 t=3829
+he cheng 	合成	c=10 d=4.53267 t=3843
+he nan 	河南	c=1 d=1 t=3827
+he pan 	河畔	c=0 d=0.0960789 t=3843
+he xin 	核心	c=2 d=1.99501 t=3758
+he xing 	核型	c=1 d=0.128093 t=3843
+hei ban 	黑板	c=3 d=0.375479 t=3843
+hei se 	黑色	c=1 d=0.927743 t=3843
+hei sen lin 	黑森林	c=1 d=6.22097e-05 t=3843
+hen 	很	c=8 d=1.79997 t=3843
+hen bu 	很不	c=1 d=0.571209 t=3843
+hen bu cuo 	很不錯	c=1 d=0.0620385 t=3843
+hen duo 	很多	c=4 d=0.265634 t=3843
+hen hao 	很好	c=0 d=0.018452 t=3843
+hen hao yong 	很好用	c=1 d=0.185444 t=3843
+hen kuai 	很快	c=1 d=7.56041e-05 t=3843
+hen qiang 	很強	c=1 d=0.66365 t=3843
+hen shuang 	很爽	c=1 d=0.0675424 t=3843
+hen xiao 	很小	c=1 d=0.000231716 t=3843
+hong wai 	紅外	c=1 d=1 t=3514
+hou 	後	c=3 d=0.759572 t=3843
+hou mian 	後面	c=3 d=0.000568459 t=3843
+hou qi 	後期	c=1 d=0.000710174 t=3843
+hu yin meng 	胡茵夢	c=1 d=0.612626 t=3843
+hua 	化	c=3 d=0.458411 t=3843
+hua 	話	c=9 d=0.9212 t=3843
+hua wen 	華文	c=1 d=0.472367 t=3843
+hua xue 	化學	c=2 d=0.970446 t=3843
+huai gu 	懷古	c=1 d=0.960789 t=3843
+huan 	換	c=4 d=0.402188 t=3843
+huan 	環	c=1 d=1.72966e-05 t=3843
+huan pi fu 	換皮膚	c=1 d=0.985112 t=3843
+huan yi ge 	換一個	c=1 d=0.0291588 t=3843
+huang di 	皇帝	c=2 d=1.1322 t=3843
+huang suan 	磺酸	c=2 d=0.301065 t=3843
+huang suan na 	磺酸鈉	c=4 d=1.02058 t=3843
+hui 	會	c=14 d=1.40076 t=3843
+hui bu hui 	會不會	c=1 d=0.108067 t=3843
+hui che 	回車	c=1 d=0.00164502 t=3843
+hui da 	回答	c=1 d=0.357007 t=3843
+hui qu 	回去	c=1 d=0.000173384 t=3843
+huo 	或	c=1 d=1 t=3703
+huo qu 	獲取	c=2 d=0.00510951 t=3843
+huo zhe 	或者	c=6 d=1.09283 t=3843
+ji 	及	c=1 d=0.121846 t=3843
+ji 	極	c=1 d=0.923116 t=3843
+ji bei 	幾倍	c=2 d=0.0998261 t=3843
+ji ben 	基本	c=3 d=0.349118 t=3843
+ji chang 	機場	c=3 d=0.000102681 t=3843
+ji de 	記得	c=2 d=0.0465909 t=3843
+ji du 	極度	c=1 d=0.128735 t=3843
+ji ge 	幾個	c=1 d=0.000457378 t=3843
+ji hu 	幾乎	c=1 d=1 t=3732
+ji ke 	即可	c=1 d=1 t=3698
+ji kuan 	幾款	c=0 d=0.00437178 t=3843
+ji li 	極力	c=1 d=0.416862 t=3843
+ji qian 	幾千	c=1 d=0.0483156 t=3843
+ji shu 	技術	c=1 d=0.160414 t=3843
+ji shu shui zhun 	技術水準	c=1 d=0.161218 t=3843
+ji wei 	即位	c=1 d=0.366045 t=3843
+ji xie 	機械	c=1 d=0.0109436 t=3843
+ji xin ge 	基辛格	c=1 d=0.392586 t=3843
+ji xu 	繼續	c=3 d=0.151101 t=3843
+jia 	加	c=2 d=1.59156 t=3724
+jia 	夾	c=9 d=0.300227 t=3843
+jia 	甲	c=1 d=3.15165e-05 t=3843
+jia ben 	甲苯	c=7 d=2.27138 t=3843
+jia ji 	甲基	c=4 d=0.88692 t=3843
+jian 	簡	c=1 d=0.927743 t=3843
+jian 	鍵	c=3 d=0.250824 t=3843
+jian dan 	簡單	c=1 d=0.00023056 t=3843
+jian jie 	簡介	c=0 d=0.0054204 t=3843
+jian li 	建立	c=1 d=0.451581 t=3843
+jian qie 	剪切	c=0 d=0.0955997 t=3843
+jian qie bei 	剪切被	c=1 d=0.960789 t=3843
+jian she 	建設	c=0 d=0.0343009 t=3843
+jian she de 	建設得	c=1 d=0.344728 t=3843
+jian ti 	簡體	c=2 d=0.99005 t=3843
+jian tie ban 	剪貼板	c=1 d=0.965605 t=3843
+jian xing 	建興	c=1 d=0.00755912 t=3843
+jian zhi 	簡直	c=1 d=0.937067 t=3843
+jiang 	將	c=2 d=1.80252 t=3682
+jiang 	講	c=1 d=0.174645 t=3843
+jiang di 	降低	c=2 d=0.21589 t=3843
+jiang qing 	江青	c=1 d=0.239309 t=3843
+jiang ze min 	江澤民	c=1 d=0.704688 t=3843
+jiao 	交	c=1 d=2.59329e-05 t=3843
+jiao 	叫	c=1 d=0.0784731 t=3843
+jiao 	教	c=1 d=0.882497 t=3843
+jiao ben 	腳本	c=7 d=0.0184085 t=3843
+jiao cheng 	教程	c=1 d=0.000185029 t=3843
+jiao lv 	焦慮	c=1 d=5.82947e-05 t=3843
+jiao ren 	教人	c=1 d=5.74268e-05 t=3843
+jie 	階	c=2 d=0.118838 t=3843
+jie ge tu 	截個圖	c=3 d=0.00355271 t=3843
+jie gou 	結構	c=3 d=2.47717 t=3843
+jie guo 	結果	c=1 d=0.802519 t=3843
+jie jue 	解決	c=2 d=0.240508 t=3843
+jie kou 	接口	c=4 d=0.102041 t=3843
+jie tu 	截圖	c=3 d=0.00141146 t=3843
+jie ya 	解壓	c=6 d=0.0092547 t=3843
+jie yi 	介意	c=1 d=0.0944202 t=3843
+jie zhi 	接枝	c=3 d=0.456418 t=3843
+jin 	進	c=2 d=0.00120475 t=3843
+jin nian 	今年	c=1 d=0.00918669 t=3843
+jin qu 	進去	c=3 d=0.0179761 t=3843
+jin ru 	進入	c=3 d=0.00616511 t=3843
+jin tian 	今天	c=2 d=0.166182 t=3843
+jin wei jun 	禁衛軍	c=1 d=0.40657 t=3843
+jin xi tong 	進系統	c=1 d=0.000845993 t=3843
+jin xing 	進行	c=4 d=1.21717 t=3843
+jing dong 	京東	c=5 d=0.303241 t=3843
+jing jian 	精簡	c=1 d=0.941765 t=3843
+jing jian ban 	精簡版	c=2 d=1.83244 t=3843
+jing lei 	驚雷	c=1 d=0.119433 t=3843
+jing xiang 	鏡像	c=14 d=1.05025 t=3843
+jing yan 	經驗	c=1 d=5.40825e-05 t=3843
+jing yuan 	晶圓	c=1 d=0.0100017 t=3843
+jiong 	冂	c=1 d=1 t=3843
+jiu 	就	c=37 d=2.96473 t=3843
+jiu shi 	就是	c=9 d=0.946485 t=3843
+jiu shi ge 	就是個	c=1 d=0.000124028 t=3843
+jiu zhe yang 	就這樣	c=1 d=0.995012 t=3843
+ju 	聚	c=30 d=6.95746 t=3843
+ju bing xi 	聚丙烯	c=2 d=0.605529 t=3843
+ju bing xi suan 	聚丙烯酸	c=3 d=0.552662 t=3843
+ju bing xi suan yi zhi 	聚丙烯酸乙酯	c=6 d=1.40021 t=3843
+ju dian jie zhi 	聚電解質	c=1 d=1 t=3562
+ju he 	聚合	c=5 d=1.15404 t=3843
+ju ran 	居然	c=2 d=0.017022 t=3843
+ju ru suan 	聚乳酸	c=19 d=5.57344 t=3843
+juan 	卷	c=1 d=0.000203468 t=3843
+jue de 	覺得	c=3 d=1.15403 t=3843
+jue dui 	絕對	c=1 d=0.637628 t=3843
+jun 	軍	c=1 d=0.286505 t=3843
+jun shi tan ding 	君士坦丁	c=1 d=1 t=3549
+jun shi tan ding bao 	君士坦丁堡	c=1 d=1 t=3550
+ka 	卡	c=0 d=0.0172907 t=3843
+ka che 	卡車	c=2 d=0.240665 t=3843
+ka li 	卡里	c=0 d=0.0394554 t=3843
+ka li gu la 	卡里古拉	c=2 d=0.807189 t=3843
+ka zhu xi 	卡主席	c=1 d=0.173774 t=3843
+kai fa 	開發	c=1 d=5.60089e-05 t=3843
+kai ji 	開機	c=1 d=0.0564161 t=3843
+kai shi 	開始	c=6 d=0.16696 t=3843
+kai yuan 	開源	c=3 d=0.981289 t=3843
+kan 	看	c=9 d=1.23121 t=3843
+kan dao 	看到	c=2 d=0.67368 t=3843
+kan dei 	看得	c=1 d=0.263158 t=3843
+kan kan 	看看	c=19 d=0.584144 t=3843
+kan lai 	看來	c=1 d=0.65377 t=3843
+kan qi lai 	看起來	c=1 d=0.0713613 t=3843
+kan yi kan 	看一看	c=1 d=0.0262523 t=3843
+kao guo qu 	考過去	c=1 d=0.323033 t=3843
+kao lv 	考慮	c=1 d=0.343009 t=3843
+ke 	可	c=1 d=0.00852289 t=3843
+ke cai yong 	可採用	c=1 d=1 t=3733
+ke cha 	可查	c=1 d=0.191092 t=3843
+ke da 	可達	c=1 d=0.0505395 t=3843
+ke fu 	客服	c=3 d=0.0630842 t=3843
+ke lao 	克勞	c=0 d=0.106785 t=3843
+ke lao di 	克勞地	c=2 d=1.12978 t=3843
+ke lao di wu si 	克勞迪烏斯	c=1 d=0.537944 t=3843
+ke li 	顆粒	c=1 d=0.0151463 t=3843
+ke lu 	刻錄	c=5 d=0.000680984 t=3843
+ke neng 	可能	c=1 d=0.102797 t=3843
+ke tang 	課堂	c=1 d=0.26054 t=3843
+ke ti 	課題	c=1 d=0.203926 t=3843
+ke yi 	可以	c=33 d=3.26325 t=3843
+kong jian 	空間	c=1 d=0.280832 t=3843
+kong xian 	空閒	c=1 d=0.000590229 t=3843
+kong zhi 	控制	c=1 d=0.687289 t=3843
+kong zhi yu 	控制慾	c=1 d=0.66034 t=3843
+kou 	釦	c=1 d=0.145148 t=3843
+ku 	庫	c=4 d=0.672109 t=3843
+kuai 	塊	c=1 d=0.0889216 t=3843
+kuai 	快	c=3 d=0.101266 t=3843
+kuai le 	快了	c=1 d=0.0564161 t=3843
+kui ran bu dong 	巋然不動	c=1 d=0.14808 t=3843
+kui sun 	虧損	c=1 d=0.0098528 t=3843
+kuo chong 	擴充	c=1 d=0.278037 t=3843
+la 	拉	c=0 d=0.0394554 t=3843
+la kang 	拉康	c=1 d=0.142987 t=3843
+la wen na 	拉文納	c=1 d=1 t=3558
+lai 	來	c=3 d=0.0203896 t=3843
+lai li 	來歷	c=1 d=0.814647 t=3843
+lai shuo 	來說	c=1 d=4.70171e-05 t=3843
+lai yuan 	來源	c=1 d=0.794534 t=3843
+lan 	欄	c=1 d=0.00106141 t=3843
+lan dei zuo 	懶得做	c=1 d=4.06708e-05 t=3843
+lang hao 	狼嚎	c=1 d=0.0833256 t=3843
+lao 	老	c=1 d=0.10383 t=3843
+lao bu ke po 	牢不可破	c=1 d=0.287941 t=3843
+lao hao ren 	老好人	c=1 d=0.128735 t=3843
+lao zu zong 	老祖宗	c=2 d=1.01162 t=3843
+le 	了	c=60 d=3.036 t=3843
+lei 	累	c=1 d=0.323033 t=3843
+li 	李	c=1 d=1 t=3830
+li 	裏	c=15 d=0.211189 t=3843
+li jie 	理解	c=0 d=0.0110251 t=3843
+li jie 	禮節	c=1 d=4.56275e-05 t=3843
+li jie cheng 	理解成	c=1 d=0.110803 t=3843
+li mian 	裏面	c=11 d=0.0256243 t=3843
+li ne 	李訥	c=1 d=0.240508 t=3843
+li nu xing 	裏奴性	c=1 d=1 t=3786
+li shi 	歷史	c=1 d=0.778801 t=3843
+li si 	李四	c=3 d=2.95101 t=3835
+li tou 	裏頭	c=1 d=0.00117675 t=3843
+li zi 	裏子	c=3 d=1.28503 t=3843
+lian 	連	c=1 d=0.000303539 t=3843
+lian bu shang 	連不上	c=1 d=0.00098783 t=3843
+lian guo qu 	連過去	c=1 d=0.000761668 t=3843
+lian jie 	鏈接	c=4 d=0.326329 t=3843
+lian meng 	聯盟	c=1 d=0.290835 t=3843
+lian wang 	聯網	c=4 d=0.00243356 t=3843
+lian xi 	練習	c=5 d=4.59385 t=3818
+lian xiang 	聯想	c=6 d=0.460919 t=3843
+liang 	亮	c=1 d=0.000876127 t=3843
+liang ci 	兩次	c=1 d=0.0020601 t=3843
+liang du 	亮度	c=2 d=0.00165981 t=3843
+liang gan 	晾乾	c=1 d=1 t=3696
+liang ge 	兩個	c=4 d=0.183599 t=3843
+ling dao 	領導	c=3 d=0.558399 t=3843
+ling wo 	令我	c=1 d=0.157237 t=3843
+liu lan qi 	瀏覽器	c=2 d=0.180866 t=3843
+liu xing 	流行	c=1 d=0.955997 t=3843
+long 	龍	c=4 d=0.445396 t=3843
+long zi hu 	龍子湖	c=1 d=0.321422 t=3843
+lu 	盧	c=1 d=0.29671 t=3843
+lu 	路	c=1 d=0.0867261 t=3843
+lu na 	路那	c=1 d=0.0862936 t=3843
+luan kou 	亂扣	c=2 d=0.198299 t=3843
+luan shi 	亂世	c=1 d=0.634448 t=3843
+lun 	論	c=1 d=0.433421 t=3843
+lun zhong guo 	論中國	c=1 d=0.390628 t=3843
+luo ke 	羅克	c=1 d=0.00501661 t=3843
+luo ma 	羅馬	c=7 d=1.83888 t=3843
+luo ma ren 	羅馬人	c=1 d=0.546074 t=3843
+luo zhao 	裸照	c=1 d=0.410656 t=3843
+lv 	率	c=1 d=1 t=3517
+ma 	嗎	c=4 d=0.645895 t=3843
+ma 	媽	c=3 d=0.65377 t=3843
+ma biao 	碼錶	c=1 d=0.332871 t=3843
+ma fan 	麻煩	c=1 d=5.27472e-05 t=3843
+ma ge mu si 	瑪格姆斯	c=2 d=1.99501 t=3843
+ma te 	馬特	c=0 d=0.0255381 t=3843
+ma zi 	麻子	c=2 d=1.97531 t=3842
+mai 	買	c=4 d=0.145476 t=3843
+man 	慢	c=0 d=0.0396531 t=3843
+man man 	慢慢	c=1 d=0.0735345 t=3843
+man zi 	蠻子	c=1 d=0.491644 t=3843
+mao bing 	毛病	c=1 d=0.128093 t=3843
+mao zi 	帽子	c=3 d=0.34517 t=3843
+mei 	每	c=4 d=0.400517 t=3843
+mei 	沒	c=2 d=0.346463 t=3843
+mei guo 	美國	c=1 d=0.00032882 t=3843
+mei he jin 	鎂合金	c=2 d=1.79852 t=3691
+mei mai 	沒買	c=0 d=0.00131019 t=3843
+mei mai guo 	沒買過	c=1 d=0.0131675 t=3843
+mei sha 	沒啥	c=1 d=0.00848038 t=3843
+mei shi 	沒事	c=1 d=0.000221519 t=3843
+mei tian 	每天	c=1 d=0.171187 t=3843
+mei ya 	美亞	c=1 d=0.00606634 t=3843
+mei you 	沒有	c=27 d=1.66856 t=3843
+mei you ren 	沒有人	c=1 d=0.737123 t=3843
+mi ma 	密碼	c=3 d=0.000381139 t=3843
+mian 	麪	c=1 d=0.000602152 t=3843
+mian zi 	面子	c=2 d=0.263349 t=3843
+min zhong 	民衆	c=1 d=0.421052 t=3843
+ming ling 	命令	c=2 d=0.0225063 t=3843
+ming ri 	明日	c=1 d=0.0178634 t=3843
+mo er 	摩爾	c=1 d=1 t=3723
+mo ni 	模擬	c=1 d=0.677057 t=3843
+mo ni qi 	模擬器	c=1 d=0.283654 t=3843
+mo ren 	默認	c=8 d=0.369161 t=3843
+mu lu 	目錄	c=6 d=3.87523 t=3843
+na 	那	c=2 d=0.0312371 t=3843
+na 	鈉	c=1 d=0.302452 t=3843
+na ge 	哪個	c=6 d=0.863982 t=3843
+na ge 	那個	c=17 d=0.606531 t=3843
+na ji kuan 	那幾款	c=1 d=0.0439369 t=3843
+na li 	哪裏	c=2 d=0.752014 t=3843
+na ming 	拿命	c=1 d=5.65718e-05 t=3843
+na xie 	那些	c=1 d=0.000584356 t=3843
+na yang 	那樣	c=1 d=3.88812e-05 t=3843
+na yi dian 	那一點	c=1 d=0.0206508 t=3843
+na yi ge 	哪一個	c=1 d=3.39711e-05 t=3843
+nai tong tian 	乃統天	c=1 d=1 t=3843
+nan 	男	c=1 d=0.132655 t=3843
+nan 	難	c=1 d=0.13332 t=3843
+nan fang 	南方	c=0 d=0.1 t=3535
+nan fang gu yuan 	南方古猿	c=1 d=1 t=3536
+nan shou 	難受	c=1 d=0.271173 t=3843
+nan yi 	難以	c=1 d=0.33454 t=3843
+ne 	呢	c=2 d=0.117748 t=3843
+ne ge 	呢個	c=0 d=0.1 t=3740
+nei cun 	內存	c=3 d=0.226502 t=3843
+nei he 	內核	c=1 d=0.856415 t=3843
+nei xin 	內心	c=2 d=1.0798 t=3843
+neng 	能	c=7 d=0.202176 t=3843
+neng bu neng 	能不能	c=6 d=0.00812507 t=3843
+neng li 	能力	c=3 d=0.35547 t=3843
+neng pao qu 	能跑去	c=1 d=0.436049 t=3843
+neng yong 	能用	c=2 d=0.31451 t=3843
+neng yuan 	能源	c=2 d=0.749033 t=3843
+ni 	你	c=108 d=4.7218 t=3843
+ni da kai 	你打開	c=1 d=0.121846 t=3843
+ni de 	你的	c=1 d=0.00427488 t=3843
+ni ke yi 	你可以	c=2 d=0.356868 t=3843
+ni lu 	尼祿	c=5 d=3.15468 t=3843
+ni men 	你們	c=3 d=0.386741 t=3843
+ni yao 	你要	c=1 d=6.67204e-05 t=3843
+ni ye 	你也	c=2 d=0.272532 t=3843
+nian 	年	c=4 d=0.462146 t=3843
+nian dai 	年代	c=2 d=1.1743 t=3843
+nian lai 	年來	c=2 d=0.743386 t=3843
+niao ge 	鳥哥	c=1 d=6.37845e-05 t=3843
+ning bo 	寧波	c=1 d=0.25924 t=3843
+niu bi 	牛逼	c=1 d=0.644036 t=3843
+nong du 	濃度	c=2 d=1.98511 t=3718
+nong ge 	弄個	c=1 d=0.044601 t=3843
+nu xing 	奴性	c=0 d=0.1 t=3785
+pai ge 	拍個	c=2 d=0.0306845 t=3843
+pai zi 	牌子	c=3 d=0.297089 t=3843
+pan 	盤	c=20 d=0.336216 t=3843
+pao qu 	跑去	c=0 d=0.0433874 t=3843
+pei zhi 	配置	c=12 d=2.94176 t=3843
+pi fu 	皮膚	c=8 d=5.28171 t=3843
+pian 	片	c=1 d=0.0281559 t=3843
+pian 	篇	c=0 d=3.32984e-06 t=3843
+pian yi 	便宜	c=2 d=0.0395929 t=3843
+ping heng 	平衡	c=1 d=1 t=3612
+pu tong 	普通	c=1 d=0.0141931 t=3843
+qi 	器	c=4 d=1.13228 t=3843
+qi 	漆	c=1 d=0.13068 t=3843
+qi ba shi 	七八十	c=1 d=0.588605 t=3843
+qi ben yu 	慼本禹	c=1 d=0.00504176 t=3843
+qi de 	氣得	c=1 d=0.0992613 t=3843
+qi dong 	啓動	c=6 d=0.271726 t=3843
+qi dong man 	啓動慢	c=1 d=0.398519 t=3843
+qi dong pan 	啓動盤	c=1 d=0.460704 t=3843
+qi guai 	奇怪	c=1 d=0.105399 t=3843
+qi lin 	麒麟	c=1 d=0.923116 t=3843
+qi pian 	欺騙	c=2 d=1.11826 t=3843
+qi shi 	其實	c=2 d=0.985112 t=3843
+qian 	前	c=2 d=0.458942 t=3843
+qian 	錢	c=1 d=0.0207543 t=3843
+qian yi 	遷移	c=0 d=0.0279431 t=3843
+qian yuan 	乾元	c=1 d=0.980199 t=3843
+qiang 	羥	c=3 d=6.82153e-05 t=3843
+qiang ji 	羥基	c=2 d=1.76955 t=3843
+qie huan 	切換	c=4 d=1.88924 t=3843
+qin chao 	秦朝	c=1 d=0.449329 t=3843
+qing 	晴	c=1 d=0.0728029 t=3843
+qing 	請	c=4 d=0.553351 t=3843
+qing 	輕	c=1 d=0.0850088 t=3843
+qing chu 	清楚	c=1 d=0.17552 t=3843
+qing kong 	清空	c=1 d=0.000149233 t=3843
+qing li 	清理	c=1 d=0.336216 t=3843
+qing qing 	青青	c=1 d=0.182806 t=3843
+qing qing he pan cao 	青青河畔草	c=2 d=1.93605 t=3843
+qing song 	輕鬆	c=1 d=5.57296e-05 t=3843
+qing xi 	清晰	c=1 d=0.458406 t=3843
+qing xi 	清洗	c=2 d=1.9802 t=3710
+qing xing 	清醒	c=1 d=0.0977834 t=3843
+qu 	區	c=0 d=3.89752e-05 t=3843
+qu 	去	c=6 d=0.142274 t=3843
+qu le 	去了	c=2 d=0.748264 t=3843
+qu nian 	去年	c=1 d=0.00895987 t=3843
+quan bu 	全部	c=2 d=0.227663 t=3843
+quan ju 	全局	c=1 d=0.995012 t=3843
+quan luo 	全裸	c=3 d=1.30604 t=3843
+quan xian 	權限	c=4 d=0.011511 t=3843
+quan xin 	全新	c=2 d=0.38734 t=3843
+que 	缺	c=1 d=5.32773e-05 t=3843
+que ding 	確定	c=3 d=0.00485877 t=3843
+que fa 	缺乏	c=1 d=5.35444e-05 t=3843
+que shi 	確實	c=2 d=0.0178087 t=3843
+ran 	燃	c=1 d=0.70822 t=3843
+ran hou 	然後	c=13 d=0.092449 t=3843
+rang 	讓	c=2 d=1 t=3843
+rang ni 	讓你	c=1 d=0.0018363 t=3843
+rang wo 	讓我	c=3 d=0.224226 t=3843
+re ci 	熱刺	c=1 d=0.970446 t=3843
+re ci 	熱詞	c=1 d=0.97531 t=3843
+ren 	人	c=15 d=2.51387 t=3843
+ren a 	人啊	c=0 d=3.18332e-06 t=3843
+ren min 	人民	c=1 d=0.196912 t=3843
+ren ming 	人名	c=1 d=0.980199 t=3843
+ren tou 	人頭	c=1 d=0.000259956 t=3843
+ri er man 	日耳曼	c=1 d=0.477114 t=3843
+ri ji 	日記	c=1 d=0.100259 t=3843
+rong ji 	溶劑	c=1 d=1 t=3501
+rong jie xing 	溶解性	c=1 d=1 t=3702
+rong ye 	溶液	c=2 d=1.82696 t=3695
+rong yi 	容易	c=1 d=0.000717312 t=3843
+rou ti 	肉體	c=1 d=0.694197 t=3843
+ru 	入	c=1 d=0.00160441 t=3843
+ru guo 	如果	c=14 d=1.77475 t=3843
+ru he 	如何	c=9 d=4.23553 t=3843
+ru suan 	乳酸	c=5 d=1.73884 t=3843
+ruan jian 	軟件	c=9 d=0.686045 t=3843
+ruan lian 	軟連	c=1 d=0.000757869 t=3843
+rui jie 	銳捷	c=1 d=1 t=3749
+san ge 	三個	c=1 d=0.000182274 t=3843
+san guo 	三國	c=1 d=0.00585769 t=3843
+san xing 	三星	c=2 d=0.0189804 t=3843
+sen lin 	森林	c=1 d=0.489192 t=3843
+sha 	殺	c=0 d=0.0255381 t=3843
+sha ma te 	殺馬特	c=1 d=0.256661 t=3843
+sha ren 	殺人	c=1 d=0.755784 t=3843
+shai xuan 	篩選	c=1 d=0.00856561 t=3843
+shan 	刪	c=4 d=0.0077372 t=3843
+shan chu 	刪除	c=2 d=0.852348 t=3843
+shan cun 	閃存	c=1 d=0.0100518 t=3843
+shan di 	閃迪	c=3 d=0.0291441 t=3843
+shan dian 	閃電	c=1 d=0.285076 t=3843
+shan dong 	山東	c=2 d=1.99005 t=3833
+shan le 	刪了	c=4 d=0.000814027 t=3843
+shang 	上	c=6 d=0.902454 t=3843
+shang 	殤	c=1 d=0.729789 t=3843
+shang ge shi ji 	上個世紀	c=1 d=0.579842 t=3843
+shang mian 	上面	c=2 d=0.160967 t=3843
+shang nao 	上腦	c=2 d=0.184709 t=3843
+shang qu 	上去	c=1 d=0.017163 t=3843
+shang wang 	上網	c=1 d=0.00124328 t=3843
+shang yan 	傷眼	c=1 d=0.000880518 t=3843
+shao 	少	c=2 d=0.0566989 t=3843
+she qu 	社區	c=1 d=0.00377257 t=3843
+she shi du 	攝氏度	c=3 d=1 t=3843
+she xiang tou 	攝像頭	c=2 d=0.778801 t=3843
+she zhi 	設置	c=3 d=0.0137732 t=3843
+shen ai 	深愛	c=0 d=0.00702988 t=3843
+shen chu 	深處	c=2 d=1.08521 t=3843
+shen lan 	深藍	c=1 d=0.985112 t=3843
+shen me 	什麼	c=9 d=1.20792 t=3843
+shen shang 	身上	c=1 d=0.382893 t=3843
+shen shang xian 	腎上腺	c=2 d=0.182427 t=3843
+sheng 	省	c=1 d=0.00637737 t=3843
+sheng chan 	生產	c=1 d=0.0101022 t=3843
+sheng ji 	升級	c=2 d=1.30428 t=3843
+sheng ma qi 	聲碼器	c=1 d=0.99005 t=3843
+sheng qi 	生氣	c=1 d=0.102797 t=3843
+shi 	事	c=2 d=0.446007 t=3843
+shi 	使	c=1 d=1 t=3632
+shi 	施	c=1 d=0.995012 t=3843
+shi 	是	c=51 d=2.13974 t=3843
+shi 	時	c=7 d=0.951229 t=3843
+shi 	試	c=2 d=0.0383178 t=3843
+shi bai 	失敗	c=2 d=1.80521 t=3843
+shi ci 	詩詞	c=1 d=0.980199 t=3843
+shi dai 	時代	c=1 d=0.562705 t=3843
+shi fou 	是否	c=5 d=0.561032 t=3843
+shi ge 	是個	c=2 d=1.26662 t=3843
+shi he 	適合	c=1 d=0.802519 t=3843
+shi hou 	時候	c=1 d=0.111917 t=3843
+shi ji 	實際	c=1 d=0.105082 t=3843
+shi ji shang 	實際上	c=1 d=3.81113e-05 t=3843
+shi ji shi 	實際是	c=2 d=1.09065 t=3843
+shi jian 	時間	c=2 d=0.554327 t=3843
+shi jie 	世界	c=2 d=0.752618 t=3843
+shi mu 	弒母	c=1 d=0.603506 t=3843
+shi qing 	事情	c=0 d=0.0092089 t=3843
+shi shen me 	是什麼	c=1 d=0.00351752 t=3843
+shi shi shang 	事實上	c=1 d=0.0333733 t=3843
+shi ti 	屍體	c=1 d=0.786628 t=3843
+shi xian 	實現	c=1 d=0.159614 t=3843
+shi xiao 	失效	c=1 d=0.970446 t=3843
+shi yan 	實驗	c=1 d=0.895834 t=3843
+shi yan bu zhou 	实验步骤	c=1 d=1 t=3739
+shi yi shi 	試一試	c=6 d=0.108966 t=3843
+shi yong 	使用	c=3 d=0.694197 t=3843
+shi yuan 	石原	c=3 d=1.31112 t=3843
+shi yuan you 	石原佑	c=2 d=0.869945 t=3843
+shou cang 	收藏	c=1 d=0.273898 t=3843
+shou cang jia 	收藏夾	c=1 d=0.26982 t=3843
+shou ce 	手冊	c=1 d=0.818731 t=3843
+shou dong 	手動	c=1 d=0.00235786 t=3843
+shou ge 	收割	c=1 d=0.449329 t=3843
+shou ji 	手機	c=2 d=0.0527247 t=3843
+shou ming 	壽命	c=2 d=0.0614117 t=3843
+shou pian 	受騙	c=1 d=0.650509 t=3843
+shou wu 	手誤	c=2 d=0.00207354 t=3843
+shu 	書	c=1 d=0.079659 t=3843
+shu fu 	舒服	c=3 d=1.75117 t=3843
+shu ju 	數據	c=3 d=0.179066 t=3843
+shu ju ku 	數據庫	c=4 d=3.78957 t=3811
+shu lian 	熟練	c=0 d=0.0165299 t=3843
+shu ming 	書名	c=2 d=0.971076 t=3843
+shu ren 	熟人	c=0 d=0.0235746 t=3843
+shu ren a 	熟人啊	c=1 d=0.236928 t=3843
+shu ru 	輸入	c=16 d=0.166643 t=3843
+shu ru fa 	輸入法	c=39 d=6.44499 t=3843
+shu ru ren a 	輸入人啊	c=1 d=3.19928e-05 t=3843
+shu ru shen ai 	輸入深愛	c=1 d=0.0706512 t=3843
+shu xu guan 	鼠鬚管	c=3 d=0.347129 t=3843
+shu xue 	數學	c=2 d=1.99005 t=3776
+shuang 	雙	c=4 d=0.674346 t=3843
+shuang ji 	雙擊	c=1 d=0.0017555 t=3843
+shuang pin 	雙拼	c=12 d=6.58711 t=3843
+shui 	水	c=5 d=1.73652 t=3843
+shui 	誰	c=1 d=0.551563 t=3843
+shui jie 	水解	c=7 d=3.62741 t=3843
+shui le 	睡了	c=1 d=0.00343067 t=3843
+shui ning jiao 	水凝膠	c=1 d=1 t=3538
+shui ping 	水平	c=1 d=3.77321e-05 t=3843
+shui rong ye 	水溶液	c=1 d=1 t=3716
+shuo 	說	c=3 d=0.190152 t=3843
+shuo chu 	說出	c=1 d=0.183599 t=3843
+shuo guo 	說過	c=0 d=0.00555762 t=3843
+si 	思	c=3 d=2.41964 t=3843
+si 	斯	c=1 d=0.65703 t=3843
+si 	死	c=2 d=1.35039 t=3843
+si hao 	絲毫	c=1 d=0.140858 t=3843
+si ji 	死機	c=3 d=0.334197 t=3843
+song ti 	宋體	c=5 d=2.85869 t=3843
+sou 	搜	c=2 d=0.255721 t=3843
+sou di 	搜遞	c=2 d=0.927743 t=3843
+sou gou 	搜狗	c=20 d=4.42078 t=3843
+sou suo 	搜索	c=2 d=0.298371 t=3843
+su 	素	c=2 d=0.183788 t=3843
+su 	速	c=2 d=0.0889261 t=3843
+suan 	酸	c=6 d=2.2462 t=3843
+sui bian 	隨便	c=1 d=0.144424 t=3843
+sui ran 	雖然	c=3 d=0.422742 t=3843
+sun hai 	損害	c=1 d=0.12493 t=3843
+suo he 	縮合	c=1 d=1 t=3618
+suo jian 	縮減	c=1 d=0.00990218 t=3843
+suo ju 	縮聚	c=1 d=0.759572 t=3843
+suo suan 	羧酸	c=11 d=5.08666 t=3767
+suo tai 	縮肽	c=1 d=0.22313 t=3843
+suo wei 	所謂	c=1 d=0.621885 t=3843
+suo xiang 	所想	c=2 d=0.377636 t=3843
+suo xing 	索性	c=1 d=0.690734 t=3843
+suo xu 	所需	c=1 d=0.198891 t=3843
+suo yi 	所以	c=3 d=0.373592 t=3843
+suo you 	所有	c=1 d=1 t=3734
+suo you ren 	所有人	c=1 d=0.66365 t=3843
+ta 	他	c=8 d=1.75564 t=3843
+ta 	它	c=2 d=0.0523751 t=3843
+ta hui 	他會	c=3 d=0.000332257 t=3843
+ta ma 	他媽	c=1 d=0.680451 t=3843
+ta men 	他們	c=1 d=0.0026528 t=3843
+ta shuo 	他說	c=1 d=9.56323e-05 t=3843
+tai 	太	c=2 d=0.0150267 t=3843
+tai cha jin 	太差勁	c=1 d=0.0587185 t=3843
+tai da 	太大	c=1 d=0.000550326 t=3843
+tai feng 	太瘋	c=1 d=0.00882647 t=3843
+tai hao 	太好	c=1 d=0.0117371 t=3843
+tai wan 	太晚	c=1 d=0.0116203 t=3843
+tai you 	太有	c=1 d=0.416862 t=3843
+tan chu 	彈出	c=1 d=0.249075 t=3843
+tao bao 	淘寶	c=2 d=0.326005 t=3843
+tao hao 	討好	c=1 d=0.418952 t=3843
+te bie 	特別	c=2 d=0.268474 t=3843
+ti bi lve 	提比略	c=1 d=0.375311 t=3843
+ti cai 	題材	c=1 d=0.0668703 t=3843
+ti huan 	替換	c=1 d=1 t=3843
+ti hui 	體會	c=1 d=0.491644 t=3843
+ti shi 	提示	c=2 d=0.000226097 t=3843
+ti xi 	體系	c=1 d=0.985112 t=3843
+tian 	天	c=1 d=0.187308 t=3843
+tian cai 	甜菜	c=1 d=1 t=3551
+tian jia 	添加	c=3 d=0.05911 t=3843
+tian mao 	天貓	c=2 d=0.0363901 t=3843
+tian zun 	天尊	c=1 d=0.546074 t=3843
+tiao di 	調低	c=2 d=0.00166813 t=3843
+tie shang 	貼上	c=1 d=0.0257325 t=3843
+tie shang qu 	貼上去	c=1 d=0.0222592 t=3843
+ting 	聽	c=0 d=0.00555762 t=3843
+ting shuo 	聽說	c=1 d=0.71177 t=3843
+ting shuo guo 	聽說過	c=2 d=0.20921 t=3843
+tong feng chu 	通風櫥	c=1 d=1 t=3678
+tong shi 	同時	c=1 d=0.000170803 t=3843
+tong xue 	同學	c=1 d=3.53575e-05 t=3843
+tou 	頭	c=0 d=0.0168638 t=3843
+tou fei ji 	頭飛機	c=1 d=0.169483 t=3843
+tu 	圖	c=2 d=0.192489 t=3843
+tu biao 	圖標	c=1 d=0.268474 t=3843
+tu ceng 	塗層	c=1 d=1 t=3563
+tu pian 	圖片	c=2 d=0.000531714 t=3843
+tu ran 	突然	c=1 d=0.0675424 t=3843
+tui chu 	退出	c=1 d=0.00404611 t=3843
+tuo fang 	拖放	c=2 d=1.78724 t=3843
+tuo xia qu 	拖下去	c=1 d=0.0184074 t=3843
+tuo zhan 	拓展	c=4 d=0.442639 t=3843
+tuo zhe 	拖着	c=1 d=0.018043 t=3843
+wan 	完	c=1 d=0.000129737 t=3843
+wan 	萬	c=1 d=0.0507928 t=3843
+wan le 	完了	c=7 d=0.168381 t=3843
+wan mei 	完美	c=2 d=0.2845 t=3843
+wan quan 	完全	c=3 d=0.81229 t=3843
+wang 	王	c=4 d=3.08246 t=3843
+wang 	網	c=3 d=0.801074 t=3843
+wang hua 	王化	c=1 d=0.540641 t=3843
+wang luo 	網絡	c=4 d=1.99606 t=3843
+wang luo dan 	王珞丹	c=1 d=0.315058 t=3843
+wang ma zi 	王麻子	c=1 d=1 t=3840
+wang shang 	網上	c=1 d=0.0739031 t=3843
+wang su 	網速	c=2 d=0.00277314 t=3843
+wang wu 	王五	c=1 d=1 t=3828
+wei 	位	c=1 d=0.0124172 t=3843
+wei 	未	c=1 d=0.00644146 t=3843
+wei 	爲	c=2 d=0.565815 t=3843
+wei bo 	微博	c=1 d=0.00358858 t=3843
+wei bo 	微薄	c=1 d=0.00353515 t=3843
+wei ji bai ke 	維基百科	c=1 d=0.683861 t=3843
+wei le 	爲了	c=1 d=0.67368 t=3843
+wei pan 	微盤	c=1 d=1 t=3779
+wei ruan 	微軟	c=1 d=0.199888 t=3843
+wei sha 	爲啥	c=2 d=0.00190099 t=3843
+wei shen me 	爲什麼	c=1 d=0.101774 t=3843
+wei teng 	胃疼	c=2 d=0.17284 t=3843
+wei wo 	爲我	c=1 d=0.154124 t=3843
+wei xian 	危險	c=1 d=0.0116786 t=3843
+wei xin 	微信	c=3 d=0.00360373 t=3843
+wei zhi 	位置	c=1 d=0.00367942 t=3843
+wen 	問	c=2 d=0.174647 t=3843
+wen jian 	文件	c=18 d=3.097 t=3843
+wen jian jia 	文件夾	c=1 d=0.00472447 t=3843
+wen ti 	問題	c=14 d=0.785581 t=3843
+wen tuo 	穩妥	c=1 d=0.283654 t=3843
+wen wen 	問問	c=1 d=0.0223708 t=3843
+wo 	我	c=58 d=2.53002 t=3843
+wo de 	我的	c=1 d=0.315058 t=3843
+wo dou 	我都	c=1 d=0.423162 t=3843
+wo fa 	我發	c=1 d=7.22773e-05 t=3843
+wo gei ni 	我給你	c=1 d=0.00143728 t=3843
+wo men 	我們	c=1 d=1 t=3746
+wo ye 	我也	c=1 d=0.131336 t=3843
+wo yong 	我用	c=1 d=0.0338776 t=3843
+wo zen me 	我怎麼	c=1 d=0.12938 t=3843
+wo zhe ge 	我這個	c=1 d=0.00540733 t=3843
+wu 	烏	c=1 d=0.654024 t=3843
+wu fa 	無法	c=4 d=1.57074 t=3843
+wu ke 	無可	c=1 d=0.603506 t=3843
+wu li 	屋裏	c=1 d=0.771052 t=3843
+wu suo wei 	無所謂	c=1 d=0.000633025 t=3843
+wu tiao jian 	無條件	c=1 d=0.188247 t=3843
+xi fang 	西方	c=1 d=0.465334 t=3843
+xi guan 	習慣	c=2 d=1.06326 t=3843
+xi nao 	洗腦	c=1 d=0.110803 t=3843
+xi ru 	吸入	c=2 d=1.26891 t=3843
+xi tong 	系統	c=18 d=3.6022 t=3843
+xi wang 	希望	c=3 d=1.76643 t=3843
+xia 	下	c=14 d=3.25745 t=3843
+xia jiang 	下降	c=1 d=0.0911727 t=3843
+xia lai 	下來	c=0 d=0.0148823 t=3843
+xia mian 	下面	c=2 d=0.405361 t=3843
+xia zai 	下載	c=6 d=0.477114 t=3843
+xian 	先	c=12 d=0.802565 t=3843
+xian an 	酰胺	c=11 d=2.51375 t=3843
+xian hai 	鹹海	c=1 d=0.729789 t=3843
+xian shi chu 	顯示出	c=1 d=0.228779 t=3843
+xian xia 	先下	c=1 d=0.388321 t=3843
+xian xia xia lai 	先下下來	c=1 d=0.149569 t=3843
+xian zai 	現在	c=14 d=2.27691 t=3843
+xiang 	向	c=1 d=1 t=3671
+xiang 	想	c=1 d=0.19205 t=3843
+xiang dui 	相對	c=2 d=0.0700035 t=3843
+xiang jie 	詳解	c=1 d=0.158817 t=3843
+xiang mu 	項目	c=1 d=5.38128e-05 t=3843
+xiang shuo 	想說	c=1 d=0.185444 t=3843
+xiang tu 	相圖	c=1 d=0.628135 t=3843
+xiang xi 	詳細	c=1 d=0.341298 t=3843
+xiang you 	向右	c=1 d=1 t=3634
+xiao 	小	c=2 d=0.148456 t=3843
+xiao fei 	消費	c=2 d=0.752788 t=3843
+xiao he 	小鶴	c=23 d=14.9685 t=3843
+xiao lang hao 	小狼毫	c=30 d=5.45066 t=3843
+xiao lv 	效率	c=1 d=0.167797 t=3843
+xiao mie 	消滅	c=1 d=0.697676 t=3843
+xie 	些	c=1 d=0.000587285 t=3843
+xie 	寫	c=1 d=0.0997588 t=3843
+xie le 	卸了	c=1 d=0.106459 t=3843
+xie ru 	寫入	c=2 d=0.122163 t=3843
+xie zai 	寫在	c=1 d=0.000108909 t=3843
+xie zi 	寫字	c=1 d=0.133989 t=3843
+xin 	新	c=2 d=0.00664726 t=3843
+xin xi 	信息	c=1 d=0.0287246 t=3843
+xin yang 	信仰	c=1 d=0.628135 t=3843
+xing 	型	c=1 d=0.337902 t=3843
+xing 	性	c=1 d=4.58562e-05 t=3843
+xing 	行	c=5 d=0.32628 t=3843
+xing fu 	幸福	c=1 d=1 t=3559
+xing hao 	型號	c=1 d=0.0221482 t=3843
+xing ji 	星際	c=1 d=0.860708 t=3843
+xing jia bi 	性價比	c=1 d=0.00891518 t=3843
+xing le 	行了	c=4 d=0.339596 t=3843
+xing zhi 	性質	c=3 d=2.44021 t=3843
+xiu lian 	修煉	c=1 d=0.151829 t=3843
+xu 	徐	c=1 d=0.0685632 t=3843
+xu jie 	徐階	c=1 d=0.0692522 t=3843
+xu ni ji 	虛擬機	c=4 d=0.533825 t=3843
+xu yao 	需要	c=4 d=0.944657 t=3843
+xuan 	選	c=2 d=0.00071055 t=3843
+xuan le ge 	選了個	c=1 d=0.360595 t=3843
+xuan na ge 	選那個	c=1 d=0.000241172 t=3843
+xuan ze 	選擇	c=2 d=0.000537321 t=3843
+xue 	學	c=1 d=5.11883e-05 t=3843
+xue 	血	c=1 d=0.390628 t=3843
+xue hui 	學會	c=2 d=1.97531 t=3534
+xue le 	削了	c=1 d=5.14449e-05 t=3843
+xue le 	學了	c=1 d=5.17027e-05 t=3843
+xue shu 	學術	c=2 d=0.923116 t=3843
+xue tong 	血統	c=1 d=0.371577 t=3843
+xue xi 	學習	c=2 d=9.29152e-05 t=3843
+xue xiao 	學校	c=1 d=1 t=3747
+xue yuan 	學院	c=1 d=1 t=3785
+ya jia ji 	亞甲基	c=1 d=1 t=3525
+ya ke 	雅克	c=1 d=0.143704 t=3843
+yan an 	延安	c=1 d=1 t=3540
+yan jiu 	研究	c=1 d=0.205975 t=3843
+yang kai hui 	楊開慧	c=1 d=0.241714 t=3843
+yang xu 	杨絮	c=2 d=1.27527 t=3843
+yang zi 	楊子	c=1 d=0.362402 t=3843
+yang zi 	養子	c=2 d=0.732098 t=3843
+yao 	要	c=10 d=0.725435 t=3843
+yao bu 	要不	c=1 d=0.0443785 t=3843
+yao shi 	要是	c=1 d=0.131994 t=3843
+ye 	也	c=10 d=0.566685 t=3843
+ye bu xing 	也不行	c=1 d=0.000907334 t=3843
+ye jiu 	也就	c=2 d=0.0242727 t=3843
+ye ke yi 	也可以	c=3 d=0.377192 t=3843
+ye shi 	也是	c=3 d=0.70822 t=3843
+ye shi ge 	也是個	c=1 d=0.379083 t=3843
+ye xing 	也行	c=3 d=0.195507 t=3843
+ye you 	也有	c=3 d=0.390516 t=3843
+yi 	一	c=2 d=0.0191886 t=3843
+yi 	乙	c=16 d=2.64344 t=3843
+yi 	已	c=1 d=0.856415 t=3843
+yi 	意	c=1 d=0.814647 t=3843
+yi 	譯	c=1 d=0.865022 t=3843
+yi ban 	一般	c=1 d=4.02661e-05 t=3843
+yi bian 	一邊	c=2 d=0.000276904 t=3843
+yi bu fen 	一部分	c=1 d=0.543351 t=3843
+yi chao jia 	一吵架	c=1 d=0.0880368 t=3843
+yi chun 	乙醇	c=5 d=1.52553 t=3843
+yi ci 	一次	c=2 d=0.215745 t=3843
+yi dian 	一點	c=1 d=0.134607 t=3843
+yi dong 	移動	c=1 d=0.00224287 t=3843
+yi ge 	一個	c=9 d=1.26495 t=3843
+yi ge ren 	一個人	c=1 d=4.67826e-05 t=3843
+yi hou 	以後	c=1 d=0.519442 t=3843
+yi hui 	一會	c=1 d=0.00022263 t=3843
+yi ji 	一級	c=3 d=0.181923 t=3843
+yi ji 	以及	c=1 d=0.0581343 t=3843
+yi ji du 	一季度	c=1 d=0.0599047 t=3843
+yi jing 	已經	c=6 d=0.850081 t=3843
+yi kan 	一看	c=1 d=0.289384 t=3843
+yi kuai 	一塊	c=1 d=0.114178 t=3843
+yi nu 	一怒	c=1 d=0.104874 t=3843
+yi pian 	一片	c=1 d=0.995012 t=3843
+yi qian 	以前	c=1 d=0.210136 t=3843
+yi shi 	一時	c=1 d=4.86918e-05 t=3843
+yi suan 	乙酸	c=2 d=1.52318 t=3843
+yi wai 	意外	c=1 d=0.153355 t=3843
+yi xi 	乙烯	c=2 d=0.937067 t=3843
+yi xia 	一下	c=4 d=0.107432 t=3843
+yi xie 	一些	c=2 d=0.157237 t=3843
+yi yang 	一樣	c=4 d=0.197899 t=3843
+yi zhang 	一張	c=1 d=0.000162473 t=3843
+yi zhi 	一直	c=1 d=0.118245 t=3843
+yin 	陰	c=1 d=0.329559 t=3843
+yin wei 	因爲	c=3 d=0.116484 t=3843
+yin xiang 	印象	c=1 d=0.265803 t=3843
+yin yue 	音樂	c=1 d=0.293758 t=3843
+ying de 	英德	c=1 d=0.472367 t=3843
+ying gai 	應該	c=1 d=0.000614317 t=3843
+ying guo 	英國	c=1 d=0.701173 t=3843
+ying pan 	硬盤	c=9 d=0.323115 t=3843
+ying xiao 	營銷	c=3 d=0.000103359 t=3843
+ying yong 	應用	c=1 d=0.318224 t=3843
+ying yu 	英語	c=1 d=0.00032718 t=3843
+yong 	用	c=37 d=2.88388 t=3843
+yong hu 	用戶	c=4 d=1.00383 t=3843
+yong huo 	用火	c=2 d=1.97531 t=3535
+yong qi 	勇氣	c=1 d=0.418952 t=3843
+yong qi lai 	用起來	c=1 d=0.267135 t=3843
+yong shen me 	用什麼	c=1 d=0.172907 t=3843
+yong yuan 	永遠	c=1 d=0.0181334 t=3843
+you 	佑	c=4 d=1.73018 t=3843
+you 	又	c=1 d=0.000490542 t=3843
+you 	有	c=16 d=0.963052 t=3843
+you 	遊	c=1 d=0.319819 t=3843
+you du 	有毒	c=1 d=1 t=3675
+you hui 	優惠	c=1 d=0.0188734 t=3843
+you jian 	右鍵	c=1 d=0.000201444 t=3843
+you ke neng 	有可能	c=1 d=0.035437 t=3843
+you le 	有了	c=1 d=0.000493001 t=3843
+you mei you 	有沒有	c=1 d=0.00292342 t=3843
+you ming 	有名	c=1 d=0.427415 t=3843
+you qu 	有趣	c=1 d=0.453845 t=3843
+you shang jiao 	右上角	c=1 d=0.000294568 t=3843
+you shi 	又是	c=1 d=0.0497871 t=3843
+you xiang 	郵箱	c=3 d=0.00412236 t=3843
+you xie 	有些	c=1 d=0.000413853 t=3843
+you yi dian 	有一點	c=1 d=0.0149208 t=3843
+you yi ge 	有一個	c=1 d=0.362402 t=3843
+you yue gan 	優越感	c=1 d=0.084163 t=3843
+yu 	於	c=2 d=0.16607 t=3843
+yu 	與	c=2 d=0.296713 t=3843
+yu 	遇	c=1 d=0.00499159 t=3843
+yu 	雨	c=2 d=0.99005 t=3843
+yu ju 	語句	c=2 d=1.9802 t=3799
+yu yan 	語言	c=2 d=0.88752 t=3843
+yuan 	源	c=7 d=0.240032 t=3843
+yuan lai 	原來	c=2 d=0.0123916 t=3843
+yuan ma 	源碼	c=1 d=0.00349997 t=3843
+yuan shou 	元首	c=1 d=0.394554 t=3843
+yue guo 	越過	c=1 d=0.516851 t=3843
+yue lai yue gao 	越來越高	c=1 d=0.162026 t=3843
+yun 	運	c=1 d=0.927743 t=3843
+yun 	雲	c=4 d=0.824934 t=3843
+yun 	韻	c=3 d=0.932394 t=3843
+yun pan 	雲盤	c=2 d=0.0135191 t=3843
+yun xing 	運行	c=5 d=0.236798 t=3843
+yun xing 	雲行	c=1 d=0.985112 t=3843
+yun xu 	允許	c=1 d=0.00331267 t=3843
+zai 	再	c=10 d=0.534597 t=3843
+zai 	在	c=34 d=2.91454 t=3843
+zai shuo 	再說	c=1 d=0.535261 t=3843
+zan 	讚	c=1 d=1 t=3719
+zan shi 	暫時	c=1 d=1 t=3720
+zao 	棗	c=1 d=0.331211 t=3843
+zao cheng 	造成	c=1 d=0.00980366 t=3843
+zen me 	怎麼	c=6 d=0.427938 t=3843
+zen yang 	怎樣	c=1 d=3.73566e-05 t=3843
+zhai chao 	摘抄	c=1 d=0.489192 t=3843
+zhan 	展	c=1 d=0.0037164 t=3843
+zhan 	站	c=3 d=0.991151 t=3843
+zhan yong 	佔用	c=1 d=0.217621 t=3843
+zhang 	漲	c=1 d=0.00782838 t=3843
+zhang de 	漲得	c=1 d=0.00878245 t=3843
+zhang hu 	賬戶	c=1 d=6.60565e-05 t=3843
+zhao 	找	c=2 d=5.99596e-05 t=3843
+zhao 	照	c=2 d=0.566 t=3843
+zhao zhao 	找找	c=1 d=0.382893 t=3843
+zhe 	着	c=1 d=0.0991188 t=3843
+zhe 	這	c=8 d=0.748189 t=3843
+zhe ben shu 	這本書	c=1 d=5.71404e-05 t=3843
+zhe dao shi 	這倒是	c=1 d=0.540641 t=3843
+zhe eng 	這嗯	c=1 d=0.235746 t=3843
+zhe ge 	這個	c=65 d=6.31749 t=3843
+zhe kuan 	這款	c=1 d=0.980199 t=3843
+zhe li 	這裏	c=1 d=0.146607 t=3843
+zhe li mian 	這裏面	c=1 d=0.00119453 t=3843
+zhe lia 	這倆	c=1 d=0.00198925 t=3843
+zhe me 	這麼	c=1 d=0.00790705 t=3843
+zhe shi 	這是	c=1 d=4.14924e-05 t=3843
+zhe yang 	這樣	c=8 d=0.624556 t=3843
+zhe yi 	這一	c=0 d=3.32984e-06 t=3843
+zhe yi pian 	這一篇	c=1 d=3.34653e-05 t=3843
+zhe zhong ren 	這種人	c=1 d=0.625002 t=3843
+zhen 	真	c=2 d=0.604945 t=3843
+zhen bu cuo 	真不錯	c=1 d=0.0611149 t=3843
+zhen shi 	真是	c=2 d=0.346508 t=3843
+zhen xiang 	真相	c=1 d=0.677057 t=3843
+zheng 	正	c=1 d=0.0987662 t=3843
+zheng ce 	政策	c=1 d=0.178173 t=3843
+zheng fa 	蒸發	c=1 d=1 t=3697
+zheng li 	整理	c=1 d=0.00647375 t=3843
+zheng mian 	正面	c=1 d=0.355226 t=3843
+zheng que 	正確	c=2 d=0.0177399 t=3843
+zheng shu xing 	整數型	c=1 d=0.341298 t=3843
+zheng zai 	正在	c=1 d=0.0301974 t=3843
+zheng zhou 	鄭州	c=4 d=0.913931 t=3843
+zhi 	之	c=4 d=0.613605 t=3843
+zhi 	只	c=1 d=0.000190664 t=3843
+zhi 	止	c=2 d=0.47049 t=3843
+zhi 	知	c=2 d=0.940479 t=3843
+zhi 	酯	c=17 d=2.64804 t=3843
+zhi dao 	知道	c=1 d=0.740818 t=3843
+zhi ding 	制定	c=1 d=0.00227676 t=3843
+zhi ding 	指定	c=1 d=0.00228818 t=3843
+zhi hao 	只好	c=1 d=0.358796 t=3843
+zhi hou 	之後	c=3 d=0.0084681 t=3843
+zhi hu 	知乎	c=1 d=1 t=3807
+zhi jiao huan 	酯交换	c=1 d=0.289384 t=3843
+zhi jie 	直接	c=5 d=0.837888 t=3843
+zhi li ren 	直立人	c=1 d=1 t=3533
+zhi ming 	知名	c=1 d=1 t=3843
+zhi na 	支那	c=1 d=0.726149 t=3843
+zhi nan 	指南	c=1 d=0.697676 t=3843
+zhi shang 	智商	c=1 d=0.090718 t=3843
+zhi shi 	只是	c=4 d=0.107598 t=3843
+zhi si 	之死	c=1 d=0.543351 t=3843
+zhi wang 	指望	c=1 d=0.236928 t=3843
+zhi wang 	知網	c=6 d=2.97078 t=3843
+zhi xia 	之下	c=1 d=0.105399 t=3843
+zhi xing 	執行	c=4 d=0.0139907 t=3843
+zhi yao 	只要	c=1 d=0.00909528 t=3843
+zhi yong 	只用	c=2 d=0.436049 t=3843
+zhi ze 	指責	c=2 d=0.718178 t=3843
+zhi zuo 	製作	c=3 d=0.828129 t=3843
+zhong 	中	c=7 d=1.78609 t=3843
+zhong duan 	終端	c=10 d=2.70249 t=3843
+zhong guo 	中國	c=9 d=2.86181 t=3843
+zhong ke 	中科	c=1 d=0.687482 t=3843
+zhong ke da 	中科大	c=1 d=0.283654 t=3843
+zhong ke da 	中科打	c=5 d=0.972608 t=3843
+zhong shi 	重視	c=1 d=0.12938 t=3843
+zhong wen 	中文	c=12 d=2.04265 t=3843
+zhong yao 	重要	c=2 d=1.2913 t=3843
+zhong yu 	終於	c=2 d=1.00953 t=3843
+zhong yu ke yi 	終於可以	c=1 d=0.960789 t=3843
+zhong zhou 	中州	c=6 d=1.81449 t=3843
+zhong zhou yun 	中州韻	c=16 d=2.6833 t=3843
+zhong zu qi shi 	種族歧視	c=1 d=0.075774 t=3843
+zhou 	周	c=1 d=1 t=3832
+zhu 	住	c=1 d=0.38868 t=3843
+zhu bu 	逐步	c=0 d=0.0279431 t=3843
+zhu bu qian yi 	逐步遷移	c=1 d=0.280832 t=3843
+zhu dong 	主動	c=1 d=3.26391e-05 t=3843
+zhu xi 	主席	c=0 d=0.0172907 t=3843
+zhuan 	轉	c=1 d=0.339596 t=3843
+zhuan huan 	轉換	c=1 d=0.995012 t=3843
+zhuan ye 	專業	c=1 d=0.0916297 t=3843
+zhuang 	莊	c=1 d=0.733447 t=3843
+zhuang 	裝	c=9 d=1.97213 t=3843
+zhuang shang 	裝上	c=1 d=0.529935 t=3843
+zhuang tai lan 	狀態欄	c=1 d=0.250324 t=3843
+zhuang zai 	裝載	c=1 d=0.000104638 t=3843
+zi 	子	c=1 d=0.0911727 t=3843
+zi 	字	c=0 d=0.0181772 t=3843
+zi 	自	c=1 d=0.147342 t=3843
+zi dai 	自帶	c=1 d=0.00612731 t=3843
+zi dong 	自動	c=1 d=0.000403635 t=3843
+zi fu 	字符	c=1 d=0.336216 t=3843
+zi ji 	自己	c=3 d=0.403039 t=3843
+zi jian 	自檢	c=1 d=1 t=3791
+zi ti 	字體	c=2 d=0.470797 t=3843
+zi wai 	紫外	c=1 d=1 t=3727
+zi ying 	自營	c=2 d=0.311276 t=3843
+zi you ji 	自由基	c=1 d=1 t=3735
+zi yuan 	資源	c=3 d=0.947047 t=3843
+zou 	走	c=1 d=9.70776e-05 t=3843
+zou xiao 	奏效	c=0 d=0.000527382 t=3843
+zui 	最	c=2 d=0.012628 t=3843
+zui jia 	最佳	c=1 d=1 t=3511
+zui jin 	最近	c=1 d=0.00869506 t=3843
+zui lei 	最累	c=1 d=5.62896e-05 t=3843
+zui quan 	最全	c=3 d=0.995012 t=3843
+zui zhong 	最終	c=2 d=9.98539e-05 t=3843
+zui zhong yao 	最重要	c=3 d=0.000132406 t=3843
+zun zhong 	尊重	c=1 d=4.17004e-05 t=3843
+zuo 	做	c=8 d=0.829463 t=3843
+zuo pai 	左派	c=1 d=0.0837432 t=3843
+zuo tian 	昨天	c=1 d=0.037068 t=3843
+zuo wan 	做完	c=1 d=0.000115067 t=3843
+zuo xi tong 	做系統	c=1 d=6.73909e-05 t=3843
